@@ -2,4 +2,4 @@ function copyPass(){
   passBox.select(); ---> select the value of element
   document.execCommand(); --> execute on this document Cut/Copy/...
 }
-flklsdfiokv
+sdklnsdjhosjdiojsigojisegjopzeopkgs
